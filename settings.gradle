@@ -1,0 +1,2 @@
+include ':app', ':library:ui-components', ':features:login'
+rootProject.name='BazModularizationExample'
